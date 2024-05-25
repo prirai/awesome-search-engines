@@ -17,12 +17,7 @@ Aiming to list all the search engines on the World Wide Web
 - [SeSe Engine](https://sese.yyj.moe/); Chinese engine, index seems to have a large-enough proportion of English content to fit here. [SeSe back-end Python code](https://github.com/RimoChan/sese-engine) and [the SeSe-ui Vue-based front-end](https://github.com/YunYouJun/sese-engine-ui).
 - [Stract](https://trystract.com/); Stract supports advanced ranking customization by allowing users to import “optics” files, like a better version of Brave’s “goggles” feature, [open-source, AGPL-3.0 license](https://github.com/StractOrg/stract)
 - [Yep](https://yep.com/); Excellent for less precise searches and discovery of “related sites”, especially with its index of _hundreds of billions of pages._ It’s far worse at finding very specific information or recent events for now, but it will probably improve.
-
-## AI-Driven LLM like search engines
-
-- [Andi](https://andisearch.com/)
-- [perplexity](https://www.perplexity.ai/)
-
+  
 ### Smaller indexes, hit-and-miss
 
 - [Burf.co](https://burf.co/); Very small index, but seems fine at ranking more relevant results higher. Allows site submission without any extra steps.
@@ -83,6 +78,11 @@ Aiming to list all the search engines on the World Wide Web
 ### Mojeek
 
 - [eTools.ch](https://www.etools.ch/); Partially powered by Mojeek
+
+## AI-Driven LLM like search engines
+
+- [Andi](https://andisearch.com/)
+- [perplexity](https://www.perplexity.ai/)
 
 ## Fledgling engines/Irrelevant
 
