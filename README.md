@@ -1,7 +1,7 @@
 # Awesome Search Engines
 Aiming to list all the search engines on the World Wide Web
 
-## Search engines with own indexes
+## Large Search engines with own indexes
 
 - Bing
 - Google
