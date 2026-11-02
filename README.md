@@ -127,6 +127,7 @@ Aiming to list all the search engines on the World Wide Web
 
 - [Bonzamate](https://bonzamate.com.au/); For Australian websites.
 - [High Browse](https://highbrow.se/); Uses a non-traditional ranking algorithm which does an excellent job of introducing non-SEO-optimized serendipity into search results.
+- [HornyIndex](https://hornyindex.com/); Search engine for creators on OnlyFans, Fansly and other subscription platforms. Indexes public profiles, filters by look, niche, price and location, understands natural-language queries and offers reverse image search.
 - [Keybot](https://www.keybot.com/) - Looks for multilingual websites, helpful for translators and language learners
 - [Lixia Labs Search](https://search.lixialabs.com/); A new engine that focuses on indexing technical websites and blogs, with a minimal JavaScript-free front-end.
 - [searchcode](https://searchcode.com/) - A code-search engine by the developer of Bonzamate. Searches a hand-picked list of code forges for source code, supporting many search operators.
